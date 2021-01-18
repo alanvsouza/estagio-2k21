@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 int main() {
-    printf("teste")
+    int value = 10;
+    printf("teste %d", value);
 }
