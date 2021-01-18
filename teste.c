@@ -2,5 +2,5 @@
 
 int main() {
     int status = 1;
-  printf("Funcionalidade %d", status);
+    printf("Funcionalidade %d", status);
 }
