@@ -1,5 +1,6 @@
 #include <stdio.h>
 
 int main() {
-  printf("Funcionalidade")
+    int status = 1;
+  printf("Funcionalidade %d", status);
 }
